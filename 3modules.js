@@ -1,2 +1,3 @@
 const names = require('./4name');
-console.log("heyy",names.dhruv);
+let data =JSON.stringify(names)
+console.log("heyy",data);

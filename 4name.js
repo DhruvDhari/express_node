@@ -6,4 +6,4 @@ const secret="SUPER_SECRET";
 const dhruv="dhruv";
 const name="kd";
 
-module.exports={dhruv,name};
+module.exports={dhruv,name}; 

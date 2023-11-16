@@ -1,0 +1,10 @@
+-dont ever push node modules file, put it into .gitignore file.
+-and when you clone a project,by simply doing npm install, all libraries,dependencies in package.json file will be downloaded, simople :D 
+
+-dev dependencies --> -D or --save-dev 
+eg. npm i nodemon -D 
+
+-scripts in your package.json are imp...
+you can change, eg "start" :"node app.js"
+now if i write npm start, my "node app.js " command will run ,
+and tadaa!!

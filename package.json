@@ -5,16 +5,12 @@
   "main": "1-intro.js",
   "scripts": {
     "start": "node app.js",
-    "dev": "node app.js"
- 
+    "dev": "nodemon app.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.3.2",
     "lodash": "^4.17.21"
-  },
-  "devDependencies": {
-    "nodemon": "^3.0.1"
   }
 }
